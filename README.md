@@ -29,10 +29,12 @@ I focused on three primary dimensions of the "Olist" ecosystem:
 2.  **Customer Lifetime Value (CLV):**
     * **Formula:** `CLV = Sum(Total Revenue) / Unique Customers`
     * **Significance:** Moving beyond "Average Order Value" to understand the long-term worth of a customer.
+    * ** formula subjected to market changes
 
 3.  **Channel Efficiency (ROI/CAC):**
     * **Method:** Simulated deterministic acquisition channels (Organic, Paid, Social, Direct).
     * **Outcome:** Quantified the **Return on Investment (ROI)** by netting Lifetime Revenue against Acquisition Costs (CAC).
+    * ** Subjected to market changes
 
 ---
 
@@ -53,4 +55,4 @@ I focused on three primary dimensions of the "Olist" ecosystem:
 * `ecommerce_dashboard.pbix`: The source Power BI report.
 
 ---
-**Contact:** [Sumit P] | [Link to LinkedIn]
+**Contact:** [Sumit P] | [https://www.linkedin.com/in/sumit-pathrabe-a068922b9/]
