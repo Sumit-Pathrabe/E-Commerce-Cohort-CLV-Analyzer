@@ -5,11 +5,8 @@
 
 ## 📊 Executive Summary
 This project transforms 100k+ raw marketplace records into a strategic growth tool. By engineering a high-performance data pipeline (PostgreSQL + Python), I identified critical customer churn points and quantified the ROI of acquisition channels. 
-
 **Key Business Impact:** Identified that Organic Search yields a **[XX]% higher ROI** than Paid Ads, providing a data-backed case for shifting marketing budget toward SEO.
-
 ---
-
 ## 🛠️ Tech Stack & Methodology
 * **Database:** PostgreSQL (Relational modeling & Data Ingestion)
 * **Languages:** Python 3.10 (Pandas, SQLAlchemy, NumPy)
