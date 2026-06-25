@@ -46,7 +46,6 @@ I focused on three primary dimensions of the "Olist" ecosystem:
 4.  **Visualization:** Interactive Power BI dashboard with a conditional-formatting heatmap and ROI distribution charts.
 
 ---
-
 ## 📂 Project Structure
 * `1_load_data.py`: Ingestion logic from CSV to SQL.
 * `2_clean_data.py`: SQL-based data prep & type casting.
